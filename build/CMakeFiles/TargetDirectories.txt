@@ -1,0 +1,12 @@
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/SP-SLAM2-tensorrt.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/rgbd_tum.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/stereo_kitti.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/stereo_euroc.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/mono_tum.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/mono_kitti.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/mono_euroc.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/edit_cache.dir
+/spslam/SP-SLAM2-tensorrt/build/CMakeFiles/rebuild_cache.dir
+/spslam/SP-SLAM2-tensorrt/build/Thirdparty/g2o/CMakeFiles/g2o.dir
+/spslam/SP-SLAM2-tensorrt/build/Thirdparty/g2o/CMakeFiles/edit_cache.dir
+/spslam/SP-SLAM2-tensorrt/build/Thirdparty/g2o/CMakeFiles/rebuild_cache.dir
